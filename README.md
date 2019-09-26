@@ -13,5 +13,5 @@ Keras Conv2D
 # Accuracy
 Val Accuracy = 0.9950 (Top 20% in Kaggle)
 
-TODO:
+# TODO:
 Write argparse functions to let the user data_input_path, model_params (like epcohs, batch_size) and model_save_path
