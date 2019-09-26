@@ -11,7 +11,7 @@ PATH_TEST = "../Image_Classification/digit-recognizer/dataset/test.csv"
 Keras Conv2D
 
 # Accuracy
-Val Accuracy = 0.9950 (Top 20% in Kaggle)
+Test Data Accuracy = 0.9950 (Top 20% in Kaggle)
 
 # TODO:
 Write argparse functions to let the user data_input_path, model_params (like epcohs, batch_size) and model_save_path
