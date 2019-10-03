@@ -17,4 +17,4 @@ Keras Conv2D
 Test Data Accuracy = 0.9952 (Top 20% in Kaggle)
 
 # TODO:
-Write argparse functions to let the user input data_input_path, model_params (like epcohs, batch_size) and model_save_path
+Write argparse functions to let the user input data_input_path, model_params (like epochs, batch_size) and model_save_path
